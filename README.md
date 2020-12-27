@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório do versionado.
 
- Criando repositório.
+ Criando repositório pela primeira vez.
